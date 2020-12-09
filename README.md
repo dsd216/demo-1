@@ -6,6 +6,6 @@ this is demo repository!
 
 Watch the Youtube video
 
-## Development
+## Local Development
 
 Open index.html in your browser
